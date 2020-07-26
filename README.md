@@ -1,1 +1,1 @@
-easy la understandable low levelo of python programming 
+easiy understandable low level  python programming 
